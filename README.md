@@ -31,7 +31,7 @@ The only locations where you should implement your code are in the modules `clea
 # ----------------------------------------------------
     
 Do not change the notebook itself unless you were asked for specifically within the notebook.
-It is recommended to use either Spyder or PyCharm for debugging your code. You can use the cells written in HW1_main.
+It is recommended to use PyCharm for debugging your code. You can use the cells written in HW1_main.
 The only files for submission are: `HW1.ipynb`, `clean_data.py`, and `lin_classifier.py`.
 Submission is individual.
 
